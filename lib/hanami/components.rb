@@ -1,4 +1,5 @@
-require 'concurrent'
+require 'concurrent/hash'
+require 'concurrent/map'
 
 module Hanami
   # Components API

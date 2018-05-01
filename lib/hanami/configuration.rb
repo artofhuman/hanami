@@ -1,4 +1,4 @@
-require 'concurrent'
+require 'concurrent/map'
 require 'hanami/application'
 require 'hanami/utils/class'
 require 'hanami/utils/string'

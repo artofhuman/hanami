@@ -1,4 +1,4 @@
-require "concurrent"
+require "concurrent/array"
 
 module Hanami
   # @api private

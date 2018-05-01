@@ -4,7 +4,7 @@ require 'hanami/components'
 require 'hanami/cli/command'
 require 'hanami/cli/commands/project'
 require 'hanami/cli/commands/templates'
-require 'concurrent'
+require 'concurrent/array'
 require 'hanami/utils/files'
 require 'erb'
 

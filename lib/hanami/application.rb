@@ -1,5 +1,3 @@
-require 'thread'
-require 'concurrent'
 require 'hanami/application_name'
 require 'hanami/application_namespace'
 require 'hanami/application_configuration'
